@@ -1,0 +1,210 @@
+\begin{theindex}
+
+  \item $N_{\rm bits}$, 30, 32, 43
+
+  \indexspace
+
+  \item angular units, 23
+  \item ANSI, 7
+  \item ANSI, IEEE, 40, 65
+  \item array descriptor, 65, 71
+  \item array size, 30, 31, 43, 44
+  \item array value, 7, 10, 35
+  \item array, multi-dimensional, 14
+  \item array, variable-length, 68, 71
+  \item ASCII character, 7, 39, 48, 51, 53, 103
+  \item ASCII table, 48, 119
+  \item ASCII text, 8, 14, 20, 21, 35, 53, 54, 64, 103
+  \item ASCII, ANSI, 120
+  \item AUTHOR, 34
+
+  \indexspace
+
+  \item binary table, 11, 41, 56, 99, 119
+  \item BITPIX, 29, 30, 32, 36, 37, 40, 41, 43, 46, 48, 57
+  \item BLANK, 36, 40
+  \item BSCALE, 36, 40
+  \item BUNIT, 36
+  \item byte order, 39
+  \item BZERO, 36, 40
+
+  \indexspace
+
+  \item case sensitivity, 19, 21, 27, 50, 59
+  \item character string, 8, 21, 54, 61, 64
+  \item complex data, 23, 59, 65, 67
+  \item conforming extension, 8, 11, 13, 15, 16
+  \item coordinate system, 81
+
+  \indexspace
+
+  \item DATAMAX, 37
+  \item DATAMIN, 37
+  \item DATE, 32
+  \item DATE-OBS, 33
+  \item DATExxxx, 34
+  \item deprecate, 8, 17, 25, 33, 41, 54, 76, 78, 81, 96
+
+  \indexspace
+
+  \item END, 14, 29, 42, 47, 49, 59, 69
+  \item EPOCH, 81
+  \item EQUINOX, 81
+  \item EXTEND, 33
+  \item extension, 8, 9, 13, 15, 37, 39, 109, 117
+  \item extension registration, 15, 31
+  \item extension type name, 8, 15, 31, 37
+  \item extension, conforming, 8, 11, 13, 15, 16
+  \item extension, standard, 11, 16
+  \item EXTLEVEL, 37
+  \item EXTNAME, 37
+  \item EXTVER, 37
+
+  \indexspace
+
+  \item field, empty, 57, 63
+  \item fill, 14, 19, 44, 51, 53, 63
+  \item FITS structure, 8--10, 13, 17, 32
+  \item floating-point, 22, 65, 105
+  \item floating-point {\em FITS\/} agreement, 119
+  \item floating-point, complex, 23, 65
+  \item format, data, 39
+  \item format, fixed, 21
+  \item format, free, 21
+  \item format, keywords, 21
+  \item Fortran, 14, 49, 51, 53, 61, 63, 120
+
+  \indexspace
+
+  \item GCOUNT, 31, 32, 42--44, 46, 49, 57
+  \item group parameter value, 9, 43, 44
+  \item GROUPS, 42
+
+  \indexspace
+
+  \item HDU, 9, 29
+  \item HDU, extension, 8, 13
+  \item HDU, primary, 9, 10, 13, 14, 16
+  \item heap, 9, 31, 57, 59--61, 65, 69, 70
+  \item hyphen, 20
+
+  \indexspace
+
+  \item IAU, 1, 2, 9, 119
+  \item IAU Style Manual, 23, 120
+  \item IAUFWG, 1, 4, 9, 15, 16, 31, 109
+  \item IEEE floating-point, 40
+  \item IEEE NaN, 9
+  \item IEEE special values, 10, 37, 40, 105
+  \item image extension, 45, 119
+  \item INSTRUME, 34
+  \item integer, 16-bit, 39, 64
+  \item integer, 32-bit, 39, 64, 65
+  \item integer, 64-bit, 40, 64, 65
+  \item integer, 8-bit, 39, 64
+  \item integer, complex, 23
+
+  \indexspace
+
+  \item keyword record, 14, 19
+  \item keyword, commentary, 20, 34
+  \item keyword, indexed, 10, 20, 29
+  \item keyword, mandatory, 48
+  \item keyword, new, 38
+  \item keyword, order, 28, 30, 41, 48
+  \item keyword, required, 10, 28, 30, 41, 45, 56
+  \item keyword, reserved, 11, 32, 43
+  \item keyword, valid characters, 19
+
+  \indexspace
+
+  \item logical value, 21
+
+  \indexspace
+
+  \item mantissa, 9, 10
+
+  \indexspace
+
+  \item NaN, IEEE, 65
+  \item NAXIS, 14, 29, 30, 32, 41, 43, 44, 46, 49, 57
+  \item NAXIS1, 42, 49, 51, 57, 61, 63, 69
+  \item NAXIS2, 49, 51, 57, 61, 63, 69
+  \item NAXISn, 14, 29, 30, 32, 42--44, 46
+  \item NULL, ASCII, 7, 64
+
+  \indexspace
+
+  \item OBJECT, 34
+  \item OBSERVER, 34
+  \item offset, 69
+  \item order, byte, 39
+  \item order, extensions, 16
+  \item order, keyword, 19, 28, 30, 41, 48
+  \item order, {\em FITS\/} structures, 13
+  \item ORIGIN, 33
+
+  \indexspace
+
+  \item PCOUNT, 31, 32, 42--44, 46, 49, 57, 69
+  \item physical value, 7, 10, 35--37, 43, 44, 50, 51, 59
+  \item primary data array, 8, 10, 14, 41, 42, 44, 47
+  \item primary header, 8, 10, 28, 31, 41
+  \item PSCALn, 43, 44
+  \item PTYPEn, 43, 44
+  \item PZEROn, 43, 44
+
+  \indexspace
+
+  \item random groups, 9, 35, 41, 119
+  \item random groups array, 44
+  \item REFERENC, 34
+  \item repeat count, 11, 57, 63, 64
+
+  \indexspace
+
+  \item scaling, data, 43, 44, 51, 60
+  \item sign bit, 39
+  \item sign character, 53
+  \item significand, 10
+  \item SIMPLE, 16, 28, 29, 41
+  \item slash, 20
+  \item special records, 9, 11, 13, 16
+  \item special values, IEEE, 65
+  \item standard extension, 11, 16
+
+  \indexspace
+
+  \item TABLE, 48
+  \item TBCOLn, 49
+  \item TDIMn, 61
+  \item TDISPn, 51, 61
+  \item TELESCOP, 34
+  \item TFIELDS, 49, 57
+  \item TFORMn, 49, 57, 63--65, 68
+  \item THEAP, 61, 69
+  \item time system, 33
+  \item TNULLn, 51, 53, 60, 64
+  \item TSCALn, 50, 59, 70
+  \item TTYPEn, 50, 59
+  \item TUNITn, 50, 59
+  \item two's complement, 39, 40, 64
+  \item TZEROn, 50, 59, 70
+
+  \indexspace
+
+  \item underscore, 20
+  \item units, 10, 23, 36, 50, 59
+  \item Universal Time, 32
+
+  \indexspace
+
+  \item value, 32
+  \item value, undefined, 51, 53, 60
+  \item variable-length array, 68, 71
+
+  \indexspace
+
+  \item XTENSION, 8, 16, 31, 37, 45, 48, 56
+
+\end{theindex}
